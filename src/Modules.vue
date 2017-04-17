@@ -11,8 +11,6 @@ export default {
 </script>
 
 <style lang="stylus">
-@import '../styles/variables.styl'
-
 .ni-modules
   max-width 1024px
   margin 0 auto
