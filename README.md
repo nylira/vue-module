@@ -1,2 +1,2 @@
-# vue-module
-Module components for Vue 2.
+# vue-modules
+Module component and Modules wrapper component for Vue 2.
