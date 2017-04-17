@@ -1,1 +1,4 @@
-module.exports = require('./src/index.vue')
+module.exports = {
+  Module: require('./src/Module.vue'),
+  Modules: require('./src/Modules.vue')
+}
